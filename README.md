@@ -1,8 +1,8 @@
 # IBM_Data_Science_Capstone_project
 This repository contains all all the completed notebooks and Python files
-SpaceX Falcon 9 First-Stage Landing Prediction: Project Summary in Bullet Form
+SpaceX Falcon 9 First-Stage Landing Prediction: Project Summary
 
-Overall Project Structure: We developed an end-to-end data science pipeline to predict Falcon 9 first-stage landing success using historical launch data, enabling cost-saving insights (e.g., $62M for reusable missions vs. $165M expendable); the workflow spanned acquisition, wrangling, EDA, geospatial visualization, interactive dashboarding, and ML modeling, with extensibility for real-time 2025 integrations as of October 7, 2025.
+Overall Project Structure: We developed an end-to-end data science pipeline to predict Falcon 9 first-stage landing success using historical launch data, enabling cost-saving insights; the workflow spanned acquisition, wrangling, EDA, geospatial visualization, interactive dashboarding, and ML modeling, with extensibility for real-time 2025 integrations.
 
 Phase 1: Multi-Source Data Acquisition
 
